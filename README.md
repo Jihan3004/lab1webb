@@ -27,8 +27,8 @@ Jawab
 
 5. attribute "_blank", ketika di klik akan membuka dokumen di tab baru
 
-attribute "_self", ketika diklik akan membuka dokumen di tab yang sama
+   attribute "_self", ketika diklik akan membuka dokumen di tab yang sama
 
-attribute "_top", ketika diklik akan membuka dokumen di tab baru dengan tampilan fullscreen
+   attribute "_top", ketika diklik akan membuka dokumen di tab baru dengan tampilan fullscreen
 
-attribute "_parent", ketika diklik akan membuka dokumen di tab baru dan saling terhubung dengan link yang lain.
+   attribute "_parent", ketika diklik akan membuka dokumen di tab baru dan saling terhubung dengan link yang lain.
